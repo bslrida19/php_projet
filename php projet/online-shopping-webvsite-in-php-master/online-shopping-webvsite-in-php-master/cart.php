@@ -13,7 +13,7 @@
         //echo "Add items to cart first.";
     ?>
         <script>
-        window.alert("No items in the cart!!");
+        window.alert("No items in the cart this ......!!");
         </script>
     <?php
     }else{
